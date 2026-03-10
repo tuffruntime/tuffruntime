@@ -1,16 +1,16 @@
-## Hi there 👋
+# ⚡ [Tuff]
 
-<!--
-**tuffruntime/tuffruntime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Engineer | PHP | Javascript | Typescript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical stack
+* **Languages:** PHP, Javascript, Typescript, SQL
+* **Frameworks/Libraries:** Symfony, Shopware 6, React
+* **Tools:** Docker, Git, Linux Terminal
+
+### 🏗️ On-going projects
+* **Personal Portfolio:** WordPress + Neo-Brutalism
+* **tsniff:** A small CLI tool to sniff and catch HTTP requests.
+
+[Website](https://windang.me) • [LinkedIn](https://linkedin.com/in/thachdang) • [Email](mailto:thachphudang@gmail.com)
