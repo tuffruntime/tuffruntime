@@ -10,7 +10,8 @@
 * **Tools:** Docker, Git, Linux Terminal
 
 ### 🏗️ On-going projects
-* **Personal Portfolio:** WordPress + Neo-Brutalism
+* **tdng | Personal Portfolio:** Hugo + Neo-Brutalism
 * **tsniff:** A small CLI tool to sniff and catch HTTP requests.
+* **ttax:** Tax report generation tool
 
-[Website](https://windang.me) • [LinkedIn](https://linkedin.com/in/thachdang) • [Email](mailto:thachphudang@gmail.com)
+[Website](https://tuffruntime.github.io/tdng) • [LinkedIn](https://linkedin.com/in/thachdang) • [Email](mailto:thachphudang@gmail.com)
