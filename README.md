@@ -15,7 +15,7 @@
 * **ttax:** Tax report generation tool
 
 ### Experiments & Learning
-* **py-practice-exercises**: Python logic practice with a focus on TDD (Test-Driven Development) principles using pytest
+* **t-labs**: Python logic practice with a focus on TDD (Test-Driven Development) principles using pytest
 
 ---
 
