@@ -11,7 +11,7 @@
 
 ### 🏗️ On-going projects
 * **tdng | Personal Portfolio:** Hugo + Neo-Brutalism
-* **ttax | Sales report generation tool:** Python 
+* **teetax | Sales report generation tool:** Python 
 
 ### Experiments & Learning
 * **t-labs**: Python logic practice with a focus on TDD (Test-Driven Development) principles using pytest
